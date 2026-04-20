@@ -1,0 +1,3 @@
+type NormalTranslateReponseType = {
+  translation:string
+}
